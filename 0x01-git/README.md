@@ -1,1 +1,1 @@
-first directory 
+• Updated readme 
